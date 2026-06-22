@@ -3,9 +3,7 @@
 A modern and responsive front-end e-commerce website for showcasing and selling shoes. Built using HTML, CSS, and a little JavaScript, this project demonstrates a complete UI for an online shoe store.
 
 🌐 Live Preview
-
-(Optional – add your GitHub Pages or hosting link here)
-https://your-live-site-link.com
+(https://dinulishamindi.github.io/shoeShop/)
 
 📌 Features
 🏠 Beautiful landing (Home) section
@@ -22,19 +20,6 @@ HTML5
 CSS3
 JavaScript (basic DOM manipulation)
 Font Awesome (icons)
-
-📁 Project Structure
-SHOE-Store/
-│
-├── index.html
-├── style.css
-├── image/
-│   ├── shoes.png
-│   ├── shoes1.png
-│   ├── shoes2.png
-│   ├── ...
-│
-└── README.md
 
 🛒 Product Cards
 
